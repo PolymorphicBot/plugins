@@ -1,0 +1,29 @@
+{
+	"buffer": {
+		"git": "git://github.com/PolymorphicBot/plugin-buffer.git"
+	},
+	"links": {
+		"git": "git://github.com/PolymorphicBot/plugin-links.git"
+	},
+	"google": {
+		"git": "git://github.com/PolymorphicBot/plugin-google.git"
+	},
+	"ipkg": {
+		"git": "git://github.com/PolymorphicBot/plugin-ipkg.git"
+	},
+	"regex": {
+		"git": "git://github.com/PolymorphicBot/plugin-regex.git"
+	},
+	"relay": {
+		"git": "git://github.com/PolymorphicBot/plugin-relay.git"
+	},
+	"dictionary": {
+		"git": "git://github.com/PolymorphicBot/plugin-dictionary.git"
+	},
+	"github": {
+		"git": "git://github.com/PolymorphicBot/plugin-github.git"
+	},
+	"admin": {
+		"git": "git://github.com/PolymorphicBot/plugin-admin.git"
+	}
+}
