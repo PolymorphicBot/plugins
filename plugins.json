@@ -12,7 +12,10 @@
     "git": "git://github.com/PolymorphicBot/plugin-ipkg.git"
   },
   "regex": {
-    "git": "git://github.com/PolymorphicBot/plugin-regex.git"
+    "git": "git://github.com/PolymorphicBot/plugin-regex.git",
+    "dependencies": [
+      "buffer"
+    ]
   },
   "relay": {
     "git": "git://github.com/PolymorphicBot/plugin-relay.git"
@@ -21,7 +24,10 @@
     "git": "git://github.com/PolymorphicBot/plugin-dictionary.git"
   },
   "github": {
-    "git": "git://github.com/PolymorphicBot/plugin-github.git"
+    "git": "git://github.com/PolymorphicBot/plugin-github.git",
+    "dependencies": [
+      "github"
+    ]
   },
   "admin": {
     "git": "git://github.com/PolymorphicBot/plugin-admin.git"
