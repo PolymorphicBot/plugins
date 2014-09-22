@@ -3,18 +3,30 @@
     "git": "git://github.com/PolymorphicBot/plugin-buffer.git"
   },
   "links": {
-    "git": "git://github.com/PolymorphicBot/plugin-links.git"
+    "git": "git://github.com/PolymorphicBot/plugin-links.git",
+    "aliases": [
+      "link title"  
+    ]
   },
   "google": {
-    "git": "git://github.com/PolymorphicBot/plugin-google.git"
+    "git": "git://github.com/PolymorphicBot/plugin-google.git",
+    "aliases": [
+      "web search"
+    ]
   },
   "ipkg": {
     "git": "git://github.com/PolymorphicBot/plugin-ipkg.git"
+    "aliases": [
+      "package manager"
+    ]
   },
   "regex": {
     "git": "git://github.com/PolymorphicBot/plugin-regex.git",
     "dependencies": [
       "buffer"
+    ],
+    "aliases": [
+      "regular expression"
     ]
   },
   "relay": {
