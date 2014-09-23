@@ -15,7 +15,7 @@
     ]
   },
   "ipkg": {
-    "git": "git://github.com/PolymorphicBot/plugin-ipkg.git"
+    "git": "git://github.com/PolymorphicBot/plugin-ipkg.git",
     "aliases": [
       "package manager"
     ]
