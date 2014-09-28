@@ -43,5 +43,11 @@
   },
   "admin": {
     "git": "git://github.com/PolymorphicBot/plugin-admin.git"
+  },
+  "remote": {
+  	"git": "git://github.com/PolymorphicBot/plugin-remote.git"
+  },
+  "math": {
+  	"git": "git://github.com/PolymorphicBot/plugin-math.git"
   }
 }
