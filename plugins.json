@@ -49,5 +49,8 @@
   },
   "math": {
   	"git": "git://github.com/PolymorphicBot/plugin-math.git"
+  },
+  "script": {
+    "git": "git://github.com/PolymorphicBot/plugin-script.git"
   }
 }
