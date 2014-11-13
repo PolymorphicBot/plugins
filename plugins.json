@@ -1,56 +1,66 @@
 {
   "buffer": {
-    "git": "git://github.com/PolymorphicBot/plugin-buffer.git"
+    "git-https": "https://github.com/PolymorphicBot/plugin-buffer.git",
+    "git-ssh": "git@github.com:PolymorphicBot/plugin-buffer.git"
   },
   "links": {
-    "git": "git://github.com/PolymorphicBot/plugin-links.git",
+    "git-https": "https://github.com/PolymorphicBot/plugin-links.git",
+    "git-ssh": "git@github.com:PolymorphicBot/plugin-links.git",
     "aliases": [
       "link title"  
     ]
   },
   "google": {
-    "git": "git://github.com/PolymorphicBot/plugin-google.git",
+    "git-https": "https://github.com/PolymorphicBot/plugin-google.git",
+    "git-ssh": "git@github.com:PolymorphicBot/plugin-google.git",
     "aliases": [
       "web search"
     ]
   },
   "ipkg": {
-    "git": "git://github.com/PolymorphicBot/plugin-ipkg.git",
+    "git-https": "https://github.com/PolymorphicBot/plugin-ipkg.git",
+    "git-ssh": "git@github.com:PolymorphicBot/plugin-ipkg.git",
     "aliases": [
       "package manager"
     ]
   },
   "regex": {
-    "git": "git://github.com/PolymorphicBot/plugin-regex.git",
+    "git-https": "https://github.com/PolymorphicBot/plugin-regex.git",
+    "git-ssh": "git@github.com:PolymorphicBot/plugin-regex.git",
     "dependencies": [
       "buffer"
     ],
     "aliases": [
-      "regular expression"
+      "regular expression",
+      "regexp"
     ]
   },
   "relay": {
-    "git": "git://github.com/PolymorphicBot/plugin-relay.git"
+    "git-https": "https://github.com/PolymorphicBot/plugin-relay.git",
+    "git-ssh": "git@github.com:PolymorphicBot/plugin-relay.git"
   },
   "dictionary": {
-    "git": "git://github.com/PolymorphicBot/plugin-dictionary.git"
+    "git-https": "https://github.com/PolymorphicBot/plugin-dictionary.git",
+    "git-ssh": "git@github.com:PolymorphicBot/plugin-dictionary.git"
   },
   "github": {
-    "git": "git://github.com/PolymorphicBot/plugin-github.git",
-    "dependencies": [
-      "google"
-    ]
+    "git-https": "https://github.com/PolymorphicBot/plugin-github.git",
+    "git-ssh": "git@github.com:PolymorphicBot/plugin-github.git"
   },
   "admin": {
-    "git": "git://github.com/PolymorphicBot/plugin-admin.git"
+    "git-https": "https://github.com/PolymorphicBot/plugin-admin.git",
+    "git-ssh": "git@github.com:PolymorphicBot/plugin-admin.git"
   },
   "remote": {
-  	"git": "git://github.com/PolymorphicBot/plugin-remote.git"
+  	"git-https": "https://github.com/PolymorphicBot/plugin-remote.git",
+    "git-ssh": "git@github.com:PolymorphicBot/plugin-remote.git"
   },
   "math": {
-  	"git": "git://github.com/PolymorphicBot/plugin-math.git"
+  	"git-https": "https://github.com/PolymorphicBot/plugin-math.git",
+    "git-ssh": "git@github.com:PolymorphicBot/plugin-math.git"
   },
   "script": {
-    "git": "git://github.com/PolymorphicBot/plugin-script.git"
+    "git-https": "https://github.com/PolymorphicBot/plugin-script.git",
+    "git-ssh": "git@github.com:PolymorphicBot/plugin-script.git"
   }
 }
