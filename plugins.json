@@ -63,7 +63,7 @@
     "git-https": "https://github.com/PolymorphicBot/plugin-script.git",
     "git-ssh": "git@github.com:PolymorphicBot/plugin-script.git"
   },
-  {
+  "dcbot": {
     "git-https": "https://github.com/PolymorphicBot/plugin-dcbot.git",
     "git-ssh": "git@github.com:PolymorphicBot/plugin-dcbot.git"
   }
