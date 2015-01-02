@@ -1,4 +1,4 @@
-[
+{
   "buffer": {
     "git-https": "https://github.com/PolymorphicBot/plugin-buffer.git",
     "git-ssh": "git@github.com:PolymorphicBot/plugin-buffer.git"
@@ -67,4 +67,4 @@
     "git-https": "https://github.com/PolymorphicBot/plugin-dcbot.git",
     "git-ssh": "git@github.com:PolymorphicBot/plugin-dcbot.git"
   }
-]
+}
