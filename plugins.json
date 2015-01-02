@@ -66,5 +66,12 @@
   "dcbot": {
     "git-https": "https://github.com/PolymorphicBot/plugin-dcbot.git",
     "git-ssh": "git@github.com:PolymorphicBot/plugin-dcbot.git"
+  },
+  "dart": {
+    "git-https": "https://github.com/PolymorphicBot/plugin-dart.git",
+    "git-ssh": "git@github.com:PolymorphicBot/plugin-dart.git",
+    "aliases": [
+      "pub"
+    ]
   }
 }
