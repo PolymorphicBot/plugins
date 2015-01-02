@@ -7,7 +7,7 @@
     "git-https": "https://github.com/PolymorphicBot/plugin-links.git",
     "git-ssh": "git@github.com:PolymorphicBot/plugin-links.git",
     "aliases": [
-      "link title"  
+      "link title"
     ]
   },
   "google": {
@@ -52,7 +52,7 @@
     "git-ssh": "git@github.com:PolymorphicBot/plugin-admin.git"
   },
   "remote": {
-  	"git-https": "https://github.com/PolymorphicBot/plugin-remote.git",
+    "git-https": "https://github.com/PolymorphicBot/plugin-remote.git",
     "git-ssh": "git@github.com:PolymorphicBot/plugin-remote.git"
   },
   "math": {
