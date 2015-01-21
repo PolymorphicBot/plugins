@@ -69,7 +69,7 @@
   },
   "log": {
     "git-https": "https://github.com/PolymorphicBot/plugin-log.git",
-    "git-ssh": "git@github.com:PolymorphicBot/plugin-log.git"
+    "git-ssh": "git@github.com:PolymorphicBot/plugin-log.git",
     "aliases": [
       "logging"
     ]
