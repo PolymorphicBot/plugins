@@ -81,12 +81,12 @@
       "pub"
     ]
   },
-  "todo": [
+  "todo": {
     "git-https": "https://github.com/PolymorphicBot/plugin-todo.git",
     "git-ssh": "git@github.com:PolymorphicBot/plugin-todo.git",
     "aliases": [
       "todos",
       "todo-list"
     ]
-  ]
+  }
 }
